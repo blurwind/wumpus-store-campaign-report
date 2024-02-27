@@ -19,7 +19,7 @@ npm install wumpus-store-campaign-stats
 ### Importing Functions
 
 ```js
-const { dailyEmbed, weeklyEmbed, monthlyEmbed } = require('wumpus-store-campaign-stats');
+const { dailyEmbed, weeklyEmbed, monthlyEmbed } = require('wumpus-store-campaign-report');
 ```
 
 ### Receive a daily report

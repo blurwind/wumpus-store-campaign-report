@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This thing was never finished lol. I originally wanted to make it an NPM package but I got lazy (that's why there's still an official readme with details of how to use it, even if it's not on NPM).
+> This thing was never finished lol. I initially wanted to make it an NPM package but I got lazy (that's why there's still an official readme with details of how to use it, even if it's not on NPM).
 > <br>Got the idea by inspecting the requests Wumpus.store made when the "Insights" tab was clicked on a bot's page and I found this endpoint 
 
 # Wumpus Store Campaign Stats

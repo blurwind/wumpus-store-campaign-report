@@ -5,6 +5,10 @@
 # Wumpus Store Campaign Stats
 
 This package provides functions to retrieve campaign statistics for bots on Wumpus Store, including daily, weekly, and monthly reports.
+<p align="center">
+  <img src="https://github.com/blurwind/wumpus-store-campaign-report/assets/96443442/3593db5e-2934-4697-8e64-53880c8ffe80" alt="lol">
+</p>
+
 
 ## Installation
 

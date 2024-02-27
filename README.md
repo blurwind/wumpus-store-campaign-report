@@ -11,7 +11,7 @@ This package provides functions to retrieve campaign statistics for bots on Wump
 You can install the package via npm:
 
 ```bash
-npm install wumpus-store-campaign-stats
+npm install wumpus-store-campaign-report
 ```
 
 ## Usage

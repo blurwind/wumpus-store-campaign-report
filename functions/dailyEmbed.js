@@ -54,6 +54,4 @@ async function dailyEmbed(webhookUrl, botId) {
   await axios.post(webhookUrl, embed);
 }
 
-module.exports = {
-  dailyEmbed,
-};
+module.exports = dailyEmbed;
